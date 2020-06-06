@@ -40,6 +40,7 @@ RUN apt-get update \
         github.com/josharian/impl@latest \
         github.com/davidrjenni/reftools/cmd/fillstruct@latest \
         # github.com/uudashr/gopkgs/cmd/gopkgs@latest  \
+        github.com/uudashr/gopkgs/cmd/gopkgs@v2 \
         github.com/ramya-rao-a/go-outline@latest  \
         github.com/acroca/go-symbols@latest  \
         github.com/godoctor/godoctor@latest  \
