@@ -9,7 +9,8 @@
 	"settings": {
 		"terminal.integrated.shell.linux": "/bin/bash",
 		"go.gopath": "/go",
-		"go.useLanguageServer": true
+		"go.useLanguageServer": true,
+		"go.autocompleteUnimportedPackages": true
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
