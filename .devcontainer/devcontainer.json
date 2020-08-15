@@ -6,7 +6,9 @@
     "vscode",
     "--cap-add=SYS_PTRACE",
     "--security-opt",
-    "seccomp=unconfined"
+    "seccomp=unconfined",
+    "-v",
+    "${env:HOME}/.ssh:/home/vscode/.ssh:ro"
   ],
   "extensions": ["golang.go"],
   "settings": {
