@@ -13,7 +13,7 @@
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
     "redhat.vscode-yaml",
-    "vscode-icons-team.vscode-icons"
+    "mutantdino.resourcemonitor"
   ],
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash",
